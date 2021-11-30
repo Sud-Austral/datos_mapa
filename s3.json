@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "appdataintelligence",
+  "private_key_id": "b3ee4b7c574004c07f60ad0513179d9c462a7e1e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPM1LCmvITW52i\nSbyvkVvt8Kxvt1bF0Wkf7HCECMBhVdHiGW5Bj4gJoAmfBC4YpvAM7Rg0JDSRusmC\nPAsnElirJCnnpN+bq/PBgyLRo+L9f/BZ5cwj1LlB0xmMyk0GG2MGfkgginSdtq1h\nYFHFoqlLY445IJlTcbc4K8Ln2gtDt38lFBqQwPCSNeC+ba8SOc1+p61hywRKQRnM\nzhC4gJqaM/XjdIgY27q9kWY+3Pp8xhPZnp1LrIrf8gWbtXQZtELRynmkpMgNa+QZ\nkuZ6prBck3NXekW3KXisfbnuxpW2BYYSySQKVsvjDppdZYgqwiQfyMfOVu5A6kLI\n9PTL5oFxAgMBAAECggEAZXW4y2FrM45zqKHZ2tDfhqqJDaVlwLUz+HVjfUv5xE/t\nV/1i74iUsT3kKDE4T0sDlhjNds7ZzRh9jx/OyEGkGJ27RVqHQmfXk0UfGi/ZuY9a\nBvNPXKZQVwrDYp03TUvA2E+jCwgxZX8r9FhhglkN9EQaQyAS5Hj1InTPWo/7XxsM\ndnDGU/nEG5joqvLVU4PKyS/MYZ8m7PX7d+R8LN+ca3pzoIMInowvo48cFNvq18jW\njOUpM4pRKe0CTgp/K6NLekJeR3/X/a7hKkWzWMrwedsNgx9Rsvpr4mSJQeipiBSQ\nv2/pK41DlCmvGCV9TyCMc1mzGDCRGqXGX7Ww9WYtdwKBgQDq3kHP15mkgNljmpVm\nWr+w7jucX+Mau5+P4LaenesOdqEzaxOSC2VcwG9wawuXO/1Tq9fS5lkUs5PjTGYC\nnytE0UhnFFKvpVZCwzHiU3IvCV0EeaWBxndqhBxhTVap5PbZQTjouWaHRk1gaLwA\nlCrZWSAl6xWq931e0rpPptNiEwKBgQDh18sDuWl5qZwc31c6FGwa791Td09YHboB\nX6lYED1NKIg5lPnHdQkobZCvwIVnQo7DB19lwQQE5jX/unELphQyfdClxJUPWCKY\nKJAj+WXVf31jInnnEsj7m7cRYf3Ck5y7958Oc+cxY0wHBtVmirO9+7/tHAkIhGPE\ntRMqJdXe6wKBgQCWGSJgDL5RBlNnt1QBTL+y+B06i4EdBYksrwSmi++7l47fyG+C\nZywJQaY2ZwLKTPlRrsHIM5P8ieNaYOnUhRpm6YTm83MAc56UHiDULlYLv2UlxgRC\n0q5gcTud54oaG4yyPV98Q3hFvWUX1vdHO2nC65WDBiEb2PzTS8LrwobW5wKBgGRz\ntUr8x1tkA5ocBRJCTytUEV+0q8gHwNonkI0o+/s70gu6pbb/6Yjf4wEpYqzhP9qj\nht0dkwoS02XhqbKCtm0W5R02aQ6gJxMCx8oYfiEOSdk0VoBfLKItSqoiqdpICejZ\nZRfqmaSwA/sEIRsxCm2wclempqXxLOcrm1Cd75jtAoGBANIjyg+Di9nDc9OCtcWG\nERw5GxNYBONFFyG34rJ4x3hBaUlXoPUDAi4s2Pwc+QVOOPtDWJskvmG7+C3DsX8E\nhnot5+2ik5IMqdBtaG5lVUrPaAC/zjfCu4/lk6QojSEYUJWPFnU8XABCOQgoXzSD\nRIBYutG5j98sgAyPQPOk8HCc\n-----END PRIVATE KEY-----\n",
+  "client_email": "test4-770@appdataintelligence.iam.gserviceaccount.com",
+  "client_id": "100116896278227250208",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test4-770%40appdataintelligence.iam.gserviceaccount.com"
+}
